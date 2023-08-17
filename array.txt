@@ -17,7 +17,7 @@ wrong
 i=2;
 numbers[]==K.E.;
 
-wrong
+right
 
 K.E is the middle of the array
 //it is average search
