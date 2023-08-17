@@ -1,0 +1,23 @@
+// an array of numbers
+
+numbers[]={5,10,15,20,25}
+
+// key element=15
+
+i=0;
+numbers[]==K.E.;
+
+wrong
+
+i=1;
+numbers[]==K.E.;
+
+wrong
+
+i=2;
+numbers[]==K.E.;
+
+wrong
+
+K.E is the middle of the array
+//it is average search
